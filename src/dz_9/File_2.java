@@ -1,4 +1,4 @@
-package lesson9;
+package dz_9;
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
